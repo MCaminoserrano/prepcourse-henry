@@ -1,2 +1,1 @@
-# prepcourse-henry
-repositorio del modulo 2 de henry
+Este repositorio es una prueba de como crear un repositorio y clonarlo desde hithub a mi computadora.
